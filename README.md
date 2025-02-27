@@ -2,6 +2,10 @@
 
 Form registration that sends data to the telegram channel
 
+#### Link for the previous view:
+
+https://lesiadmytrus.github.io/registration_form/dist/index.html
+
 ## Install
 
 ##### Install the gulp command line utility:
